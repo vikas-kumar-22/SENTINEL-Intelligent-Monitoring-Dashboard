@@ -94,6 +94,5 @@ src/
 └── style.css        # Global styles
 ```
 
-## License
 
-MIT
+
