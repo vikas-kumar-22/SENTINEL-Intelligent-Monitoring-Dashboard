@@ -93,6 +93,9 @@ src/
 ├── router.js        # Vue Router configuration
 └── style.css        # Global styles
 ```
+## Screenshots
+
+
 
 
 
