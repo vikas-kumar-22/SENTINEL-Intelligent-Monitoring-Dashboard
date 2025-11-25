@@ -95,7 +95,10 @@ src/
 ```
 ## Screenshots
 
-
-
+![Dashboard](./Screenshots/IMG-20251124-WA0003.jpg)
+![Dashboard](./Screenshots/IMG-20251124-WA0004.jpg)
+![Login](./Screenshots/IMG-20251124-WA0005.jpg)
+![Adding site into the dashboard](./Screenshots/IMG-20251124-WA0006.jpg)
+![ ](./Screenshots/IMG-20251124-WA0007.jpg)
 
 
